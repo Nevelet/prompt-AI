@@ -6,10 +6,16 @@ Questi prompt da usare su NotebookLM ti permettono di creare in pochi secondi Sl
 Per supportarmi basta poco, puoi iscriverti al canale: https://www.youtube.com/@GiambattistaCiancio?sub_confirmation=1. Grazie! 🙏
 
 
-Plugin che vi servono per i prompt:
+---
+
+## Plugin che vi servono per i prompt:
+
 - Advanced Slides
 - Markmind
 - Spaced Repetition
+
+
+---
 
 
 
