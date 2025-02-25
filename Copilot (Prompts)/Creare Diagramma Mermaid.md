@@ -1,0 +1,1 @@
+Crea un diagramma mermaid di questo testo {activeNote}

@@ -1,0 +1,1 @@
+Sintetizza, aggiungi il grassetto per evidenziare i punti più importanti e aggiungi le emoji di questo testo: {}
